@@ -26,4 +26,11 @@ When installing dependecies, I receive this error/warning:
 
 Which is the same warning that prevents me from deploying my app on Heroku...
 
+# More Issues
+App no longer renders after trying to resolve first set of bugs. I have managed to break the app further...
+
+
+
+Heroku deploy link: Currently empty due to not being able to push updates to heroku.
+https://secret-brook-32840.herokuapp.com/
 
