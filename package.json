@@ -1,5 +1,5 @@
 {
-  "name": "nytreact",
+  "name": "nyt_react_search",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -25,6 +25,7 @@
     "express": "^4.15.4",
     "if-env": "^1.0.4",
     "mongoose": "^5.0.17",
+    "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1"
   }
 }

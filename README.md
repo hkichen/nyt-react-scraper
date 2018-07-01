@@ -19,4 +19,11 @@ And this error:
     at settle (settle.js:18)
     at XMLHttpRequest.handleLoad
 
+When installing dependecies, I receive this error/warning:
+- info fsevents@1.2.4: The platform "win32" is incompatible with this module. info "fsevents@1.2.4" is an optional dependency and failed compatibility check. Excluding it from installation. [3/4] Linking dependencies...
+- warning " > react-router-dom@4.3.1" has unmet peer dependency "react@>=15".
+- warning " > react-router@4.3.1" has unmet peer dependency "react@>=15".
+
+Which is the same warning that prevents me from deploying my app on Heroku...
+
 
